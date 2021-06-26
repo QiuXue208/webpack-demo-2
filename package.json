@@ -1,0 +1,14 @@
+{
+  "name": "webpack-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/generator": "^7.14.5",
+    "@babel/parser": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/traverse": "7.11.5"
+  },
+  "type": "module"
+}
